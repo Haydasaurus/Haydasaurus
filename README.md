@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haydasaurus&label=Profile%20views&color=0e75b6&style=flat" alt="haydasaurus" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=haydasaurus" alt="haydasaurus" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=haydasaurus&theme=dracula" alt="haydasaurus" /></a> </p>
 
 - 🔭 I’m currently working on **Upgrading My Skillset**
 
